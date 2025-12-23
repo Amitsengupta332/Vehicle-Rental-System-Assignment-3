@@ -70,7 +70,7 @@ All SQL queries are written in the `queries.sql` file and include:
 ## 📤 Submission
 - **GitHub Repository** :  [Link](https://github.com/Amitsengupta332/Vehicle-Rental-System-Assignment-3)
 - **ERD Link**: [Public ERD created using Lucidchart](https://lucid.app/lucidchart/2701581b-7dad-4183-bb66-6dd0fdb69039/edit?viewport_loc=867%2C-579%2C1995%2C844%2C0_0&invitationId=inv_2803a230-3af2-404f-9e38-8d3f59e7c6a0)
-- **Viva Video**: Short explanation of ERD and SQL concepts
+- **Viva Video**: [Short explanation of ERD and SQL concepts](https://drive.google.com/drive/folders/1qN-g343ZTeSajQiE4EOOoabsLHqdYWtX?usp=sharing)
 
 ---
 
